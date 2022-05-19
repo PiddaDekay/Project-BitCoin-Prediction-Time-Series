@@ -27,7 +27,7 @@ horizon = number of timesteps to predict into future
 
 window = number of timesteps from past used to predict horizon
 
- Naive model (baseline)
+* 0 Naive model (baseline)
 * 1 Dense model, horizon =1, window =7
 * 2 Same as 1, horizon =1, window =30
 * 3 Same as 1, horizon =7, window =30
