@@ -38,3 +38,12 @@ window = number of timesteps from past used to predict horizon
 * 8 Ensemble (multiple models optimized on different functions), horizon =1, window =7
 * 9 Future prediction model (model to predict future), horizon =1, window =7
 * 10 Same as 1 (but with turkey data introduced), horizon =1, window =7
+
+
+N-BEATS Architecture
+<img width="1192" alt="10-nbeats-stack-model-vs-nbeats-architecture" src="https://user-images.githubusercontent.com/69669865/169428230-73b49da4-ffea-4179-88f4-101a9ce10233.png">
+
+
+
+
+
